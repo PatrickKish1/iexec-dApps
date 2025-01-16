@@ -14,7 +14,7 @@ This is a guide to understanding how to use iExecs dataprotector sharing works, 
 &nbsp;
 &nbsp;
 
-## Concept 1
+## Concept
 
 &nbsp;
 
@@ -32,6 +32,8 @@ To view the different types of applications that can be built with this concept,
 The _open-market_ branch - This branch is for a product catalog application where users can view and interact with the products that are available for purchase. This shows how to protect a data, create collections, add to collections, subscribe to collections, rent or sell collections.
 
 The _open-market-admin_ branch - This branch is for the admin panel of the product catalog application.
+
+&nbsp;
 
 With the second type of application the control is in the hands of users in the sense that users are able to create their own content and share it with others. This type of application is more like a social media platform where users can interact with each other's content. Essentially, users can upload their own data or content onto your platform and make it accessible to other users on the platform. This won't typically need a separate admin panel but if you wish to manage the content that is uploaded by users you can create a separate application for that where you can view all the content that has been uploaded and manage it as well as other aspects like users, content verification, etc.
 
