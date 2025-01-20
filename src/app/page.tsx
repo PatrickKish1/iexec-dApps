@@ -10,14 +10,14 @@ const DocumentationPage = () => {
       title: "Open Market",
       description: "A complete toolkit to build decentralized applications with end-to-end encryption. Includes smart contract management, wallet integration, and secure data handling.",
       docsUrl: "https://docs.iex.ec/sdk",
-      githubUrl: "https://github.com/iExecBlockchainComputing/iexec-sdk",
+      githubUrl: "https://github.com/PatrickKish1/iexec-dApps/tree/master",
       imageUrl: "/iexec.png"
     },
     {
       title: "Web3 Blog",
       description: "Create and deploy custom oracles for your blockchain applications. Includes tools for data source integration, result encryption, and automated updates.",
       docsUrl: "https://docs.iex.ec/oracle-factory",
-      githubUrl: "https://github.com/iExecBlockchainComputing/iexec-oracle-factory",
+      githubUrl: "https://github.com/PatrickKish1/iexec-dApps/tree/master",
       imageUrl: "/iexec.png"
     }
   ];
